@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.logo-head{
+
+}
+.logo-head img{
+	width:225px;
+	position:absolute;
+}
+
+.center{
+	text-align:center;
+}
